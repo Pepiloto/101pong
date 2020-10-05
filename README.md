@@ -4,7 +4,8 @@
 93,5%
 
 To build and run the project:
-```make
+```c
+make
 ./101pong x0 y0 z0 x1 y1 z1 n
 
 x0  ball abscissa at time t - 1
