@@ -6,7 +6,8 @@
 To build and run the project:
 ```c
 make
-./101pong x0 y0 z0 x1 y1 z1 n```
+./101pong x0 y0 z0 x1 y1 z1 n
+```
 
 
 
